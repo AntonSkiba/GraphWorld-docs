@@ -1,3 +1,7 @@
+# НИР СКРИНШОТЫ
+![2:28:00](https://github.com/AntonSkiba/GraphWorld/blob/main/2-28.jpg)
+![2:00:00](https://github.com/AntonSkiba/GraphWorld/blob/main/2-00.jpg)
+
 # GraphWorld
 
 Задачи
